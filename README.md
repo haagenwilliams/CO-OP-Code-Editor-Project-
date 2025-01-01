@@ -10,3 +10,5 @@ This project is a real-time Co-Op code editor that will allow multiple users to 
 - **Code Execution**: Run and test code directly in the editor (coming soon).
 
  Simply just clone the repository with a the needed developer tool installed
+
+Also Go Tigers! 🐯
